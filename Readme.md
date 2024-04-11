@@ -1,6 +1,6 @@
 # Time Series Analyses for Environmental Sciences
 
-This repository contains a collection of time series analyses I've conducted as part of the course "71606 Time Series Analysis for Environmental Sciences" (link to the course website: [https://yairmau.com/time-series/](https://yairmau.com/time-series/)).
+This repository contains a collection of time series analyses I've conducted as part of the course "*71606 Time Series Analysis for Environmental Sciences*" (link to the course website: [https://yairmau.com/time-series/](https://yairmau.com/time-series/)).
 
 ## Project Summary
 This study investigates the environmental dynamics of the Hula Lake ecosystem in Israel, focusing on the relationship between water and vegetation factors and their impact on the energy balance and carbon emissions. The project aims to elucidate the differences in annual and daily ranges of various parameters between a water station and a vegetation station within the lake.
