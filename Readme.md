@@ -27,9 +27,6 @@ Additionally, remotely sensed data from the Sentinel-2 satellite was acquired, s
 
 **Figure 1** - Map of the Hula Lake ecosystem, depicting the locations of the water and vegetation meteorological stations.
 
-## Project Summary
-This study investigates the environmental dynamics of the Hula Lake ecosystem in Israel, focusing on the relationship between water and vegetation factors and their impact on the energy balance and carbon emissions. The project aims to elucidate the differences in annual and daily ranges of various parameters between a water station and a vegetation station within the lake.
-
 The analysis is divided into two parts:
 
 ### Near-Term Analysis
